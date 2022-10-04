@@ -30,3 +30,7 @@ Backend:
 # NodeJS
 # Express
 # Prisma
+
+
+# OBS:
+the project is in progress
